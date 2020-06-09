@@ -1,4 +1,4 @@
-# BDML_CIFAR-10
+# Big Data & Machine Learning -- CIFAR-10
 Performing Supervised Learning on CIFAR-10 dataset
 
 Technology/library used: numpy, matplotlib, sklearn, tensorflow, seaborn
